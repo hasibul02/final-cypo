@@ -1,0 +1,431 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* header start */
+    .menu{
+     margin: 30px;
+    
+ }
+ .menu ul li a{
+    margin-top: 5px;
+    display: inline-block;
+ }
+ /* header end */
+      /* slider start */
+      .slider-area {
+         padding: 50px 0;
+     }
+     .s_text{
+         text-align: center;
+     }
+     .s_text h1 {
+         font-size: 35px;
+     }
+     .s_text h2 {
+         font-size:25px;
+     }
+ 
+     .c_int {
+         bottom: -40px;
+     }
+ 
+     .slider-image{
+         margin-top: 50px;
+         text-align: center;
+     }
+ 
+     .c_btn {
+         padding: 10px 15px;
+     }
+ 
+     .s_text h2 {
+         margin-bottom: 40px;
+     /* slider end */
+     }
+     /* slider int */
+ 
+ .c_int [data-bs-target] {
+     width: 7px;
+     height: 7px;    
+     border: 3px solid white;
+     margin: 0  5px;   
+ 
+ }
+ 
+ .c_int .active{
+     width:7px;
+     height:7px;
+     }
+ 
+     
+      /* work ara start */
+      .ptb_90 {
+         padding: 30px 0;
+     }
+     .c_title {
+         
+         font-size: 25px;
+     }
+         
+     .c_title::before{  
+         width:60px;
+     }   
+         
+     .s_text p{      
+         margin-top: 10px;
+     }
+     .s_image {      
+         padding: 40px 0;
+     }
+     
+     .work_btn{
+         margin-top: 20px;
+     }
+          /* pawarfull area start */
+     
+     .powerful-text{      
+         margin-top: 50px;
+         text-align: center;
+     }
+     
+     .powerful-text h1 {
+         font-size: 24px;
+     }      
+     
+     .powerful-image {       
+         text-align: center;
+       
+     }
+     img.img-fliid.mdl { 
+         display: inline-block;    
+         text-align: center;
+         margin: 0 !important;
+     }
+ 
+     .psmall-image a{
+         display: block;
+         text-align: center;
+     }
+     .psmall-image img{       
+         text-align: center;
+     }
+     
+     /* pawarfull area end */
+ 
+      /* start area start */
+      .about-image {
+         margin-top: 50px;
+     }
+     /* start area end */
+     /* testimonial start */
+     .t_right {
+         padding: 35px 0;
+     }
+ 
+     
+ 
+ .t_left {
+    
+     width: 220px;  
+     margin: 0 auto;
+ }
+     /* testimonial end */
+     /* footer area stat */
+     .f-theree input {
+        width: 218px;
+        height: 35px;       
+    }
+    .f-theree button {
+        margin-top: 14px;
+        width: 130px;
+        height: 30px;        
+    }
+    .pt-90 {
+        padding-top:40px;
+        padding-bottom: 40px;
+    }
+     /* footer area end */
+ }
+ 
+ /* Small devices (landscape phones, 576px and up)*/
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+        /* header start */
+        .menu{
+         margin: 30px;
+        
+     }
+     .menu ul li a{
+        margin-top: 5px;
+        display: inline-block;
+     }
+     /* header end */
+      /* slider start */
+      .slider-area {
+         padding: 70px 0;
+     }
+     .s_text h1 {
+         font-size: 45px;
+     }
+     .s_text h2 {
+         font-size:30px;
+     }
+ 
+     .c_int {
+         bottom: -60px;
+     }
+ 
+     .slider-image{
+         margin-top: 50px;
+         text-align: center;
+     }
+ 
+     .c_btn {
+         padding: 12px 20px;
+     }
+ 
+     .s_text h2 {
+         margin-bottom: 40px;
+     /* slider end */
+     }
+     /* slider int */
+ 
+ .c_int [data-bs-target] {
+     width: 7px;
+     height: 7px;    
+     border: 3px solid white;    
+ 
+ }
+ 
+ .c_int .active{
+     width:8px;
+     height:8px;
+     }
+ 
+      /* work area start */
+      .ptb_90 {
+         padding: 50px 0;
+     }
+     .c_title {
+         
+         font-size: 30px;
+     }
+    
+         
+     .c_title::before{  
+         width:80px;   
+     }
+       
+     .s_text p{      
+         margin-top: 15px;
+     }
+     
+     .work_btn{
+         margin-top: 40px;
+         
+     }
+     /* work ara end */
+     /* pawarfull area start */
+     
+     .powerful-text{      
+         margin-top: 50px;
+         text-align: center;
+     }
+     
+     .powerful-text h1 {
+         font-size: 32px;
+     }      
+     
+     .powerful-image {
+         text-align: center;
+     }
+     img.img-fliid.mdl {
+         margin-left: 40px;
+         margin-right: 10px;
+     }
+ 
+     
+ .psmall-image {
+     margin-top: 75px;
+     margin-bottom: 90px;
+ 
+ }
+ .psmall-image a{
+     margin-top: 75px;
+     color: white;
+     text-decoration: none;
+     cursor: pointer;
+ }
+ .psmall-image img{
+     margin: 0;
+ }
+     img.img-fliid.mdl {
+         margin-left:0 !important;
+         margin-right: 0 !important;
+     }
+     /* pawarfull area end */
+      /* start area start */
+      .about-image {
+         margin-top: 60px;
+     }
+     /* start area end */
+     /* footer start */
+     .f-theree input {
+        width: 220px;
+       }
+
+       
+.f-theree button {
+    margin-top: 15px;
+    width: 135px;
+    
+}
+.pt-90 {
+    padding-top: 55px;
+    padding-bottom:55px;
+}
+     /* footer end */
+ 
+ 
+  }
+ 
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+     /* header start */
+     .menu{
+         margin: 30px;
+        
+     }
+     .menu ul li a{
+        margin-top: 5px;
+        display: inline-block;
+     }
+     /* header end */
+ 
+      /* slider start */
+      .slider-area {
+         padding: 85px 0;
+     }
+     .s_text h1 {
+         font-size: 55px;
+     }
+     .s_text h2 {
+         font-size:35px;
+     }
+ 
+     .c_int {
+         bottom: -60px;
+     }
+     /* slider end */
+     .slider-image img{
+         margin: 0 auto;
+     }
+     /* work ara start */
+     .ptb_90 {
+         padding: 70px 0;
+     }
+       
+     .s_text p{      
+         margin-top: 20px;
+     }
+ 
+         
+     .work_btn{
+         margin-top: 50px;
+     }
+     /* work ara end */
+         
+     /* pawarfull area start */
+     
+     .powerful-text{      
+         margin-top: 50px;
+     }
+     
+     
+     .psmall-image {
+         margin-top:60px;       
+ 
+     }
+     
+     
+     .powerful-image {
+         text-align: center;
+     }
+     img.img-fliid.mdl {
+         margin-left: 40px;
+         margin-right: 10px;
+     }
+     /* pawarfull area end */
+     /* start area start */
+     .about-image {
+         margin-top: 70px;
+     }
+     /* start area end */
+     /* footer area start */
+     .f-theree input {
+        width: 267px;       
+    }
+    .f-theree button {
+        margin-top: 11px;
+        width: 135px;       
+    }
+    
+    .pt-90 {
+            padding-top: 60px;
+            padding-bottom:60px;
+        }
+    
+     /* footer area end */
+ 
+  }
+ 
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+     /* slider start */
+     .slider-area {
+         padding: 100px 0;
+     }
+     .s_text h1 {
+         font-size: 60px;
+     }
+     .s_text h2 {
+         font-size:40px;
+     }
+ 
+     .c_int {
+         bottom: -68px;
+     }
+         
+     .work_btn{
+         margin-top: 60px;
+     }
+     /* slider end */
+
+     /* footer start */
+     .f-theree input {
+        width: 210px !important;    
+       
+    }
+    .f-theree button {
+        margin-top: 20px;
+        width: 140px;       
+    }
+     /* footer end */
+   
+  }
+ 
+ /*Extra Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+ /* footer start */
+ .f-theree input {
+    width: 232px;
+   
+}
+ /* footer end */
+    
+  }
+ 
+ /*Extra Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+ 
+    
+  }
